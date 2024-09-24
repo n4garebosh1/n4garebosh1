@@ -1,16 +1,17 @@
-## Hi there 👋
-My name is Fernanda..
+# Hi there! 👋
 
+My name is Fernanda C Benites, but you can call me Nana.
 
-**n4garebosh1/n4garebosh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+ I love working on projects that challenge me and allow me to learn new things.
 
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning Javscript
-- 👯 I’m looking to collaborate on many projects
-- 🤔 I’m looking for help with react
-- 💬 Ask me about my life
-- 📫 How to reach me: my e-mail
-- 😄 Pronouns: She / her
-- ⚡ Fun fact: i'm Ginger
+Feel free to explore my repositories and reach out if you'd like to connect!
+
+## Contact
+
+- Email: [n4gareb0sh12007@gmail.com]
+- LinkedIn: [empty]
+- Reddit: [n4garebosh12007]
+
+Thanks for stopping by! 😊
